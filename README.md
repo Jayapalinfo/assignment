@@ -11,7 +11,7 @@ Build and run
 
   Need Java 7 or above and Maven to build and run this project. Build the project with
 
-  mvn clean install
+  <b>mvn clean install</b>
 
 Run the project with
 
