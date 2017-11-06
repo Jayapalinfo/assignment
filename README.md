@@ -1,4 +1,4 @@
-/#Online Direct debit cancellation:
+#Online Direct debit cancellation:
 
 This is a demo project to cancel direct debits via internet banking. 
 
