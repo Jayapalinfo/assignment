@@ -1,6 +1,7 @@
 #Online Direct debit cancellation:
 
 This is a demo project to cancel direct debits via internet banking. 
+
 Technologies used:
 · Spring MVC framework
 · FTL as View Resolver
@@ -15,4 +16,4 @@ Build and run
 
 Run the project with
 
-  mvn jetty:run
+  <b>mvn jetty:run<.b>
